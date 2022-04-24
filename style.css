@@ -1,0 +1,67 @@
+/* CSS for Odin Recipes */
+
+.background,.second-background{
+    background-color:dimgray;
+}
+
+.title{
+    background-color: black;
+    color:white;
+    font-family:  Cinzel,serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+.pictures{
+    height: auto;
+    width: 415px;
+}
+
+.elements,.firstContent{
+    margin: auto;
+    width: 30%;
+    padding: 20px;
+}
+
+.dish-name,.specific-dish{
+    text-align: center;
+    font-size: 40px;
+    font-family: "Space Mono",monospace;
+    color:burlywood;
+    background-color: black;
+}
+
+.button{
+    background-color:wheat;
+    font-size: 12px;
+}
+
+
+.specific-tail{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.end{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.main-page{
+    background-color:darkgoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.headers{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tail{
+    color: white;
+    display:block;
+    background-color: black;
+}
